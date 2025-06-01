@@ -1,2 +1,2 @@
 # DA_Practice
-To become a data engineer
+To become a data science
