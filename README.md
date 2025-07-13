@@ -1,2 +1,2 @@
-# DA_Practice
-To become a data science 
+# Data_Analysis_Practice
+To become a data Analysis
